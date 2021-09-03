@@ -7,7 +7,8 @@ while true; do
 6.Rename file
 7.Remove dir
 8.Create file
-9.Exit"
+9.Exit
+------------------"
 	echo "Enter your choice"
 	read ch
 
